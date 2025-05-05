@@ -1,7 +1,4 @@
 streamlit
 pandas
-sqlite3
 requests
-json
-io
 openpyxl
